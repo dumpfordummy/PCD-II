@@ -23,7 +23,12 @@ typedef struct {
 int main() {
 	time_t now;
 	time(&now);
-	Booking book = {"X0123", "approved", localtime(&now), };
+	Booking book = {
+		.bookID = "X0123", 
+		.status = "approved", 
+		.bookDT = localtime(&now), 
+		.duration = 5
+	};
 	return 0;
 }
 
