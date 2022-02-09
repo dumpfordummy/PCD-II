@@ -6,6 +6,7 @@
 #pragma warning(disable:4996)
 
 void test();
+//Hau Shien is here once again
 
 typedef struct {
 	char bookID[6];
