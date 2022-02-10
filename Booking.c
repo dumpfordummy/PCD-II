@@ -9,7 +9,7 @@ void test();
 //Hau Shien is here once again 9.37pm  9.41pm
 //CY is here once again 9:48pm
 //push and pull, here we go 10.08pm 123
-//3.04
+//3.04 Test
 typedef struct {
 	char bookID[6];
 	char status[11];
