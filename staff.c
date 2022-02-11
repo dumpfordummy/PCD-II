@@ -15,4 +15,4 @@ typedef struct {
 
 void main() {
     Staff staff;
-}
+} // ykx
