@@ -24,4 +24,5 @@ void main() {
 	printf("MEMBER GENDER: %c\n", member.memberGender);
 	printf("MEMBER IC: %s\n", member.memberIC);
 	printf("MEMBER CONTACT NUMBER: %s\n", member.memberContactNum);
-}	//testing github	//testing github	//testing github	//testing github
+	//testYKXYKX
+}
