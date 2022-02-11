@@ -12,6 +12,7 @@ typedef struct {
     char staffPassRecover[15];
     char staffPosition[12];
 }Staff;
+
 void main() {
     Staff staff;
 }
