@@ -14,4 +14,4 @@ typedef struct {
 }Staff;
 void main() {
     Staff staff;
-}
+}//hi
