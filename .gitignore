@@ -3,3 +3,7 @@
 ################################################################################
 
 *.opendb
+/.vs/PCD-II/v17/Browse.VC.db-wal
+/.vs/PCD-II/v17/Browse.VC.db-shm
+/.vs/PCD-II/v17/Browse.VC.db
+/.vs/PCD-II/v17/.suo
